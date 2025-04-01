@@ -1,0 +1,6 @@
+kymo filename,EXAMPLEKYMO.h5
+timecrop1,8s
+timecrop2,100s
+poscrop1,8
+poscrop2,23
+gaussianrefinementwindow,5
