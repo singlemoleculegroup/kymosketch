@@ -1,0 +1,1 @@
+Allows for tracking of kymographs using hand drawn initialisation traces in a popup gui rather than automated trace detection. The initialisation traces are then refined using built in pylake functions.
